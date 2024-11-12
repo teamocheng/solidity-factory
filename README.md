@@ -6,7 +6,9 @@
 * 填写 代币简称  如 abc
 * 填加 代币总数  如 10000
 * 填写 代币精度 默认18
+
 ![创建代币](https://caseapp.hnbangyao.net/uploads/20241112/e0490f37f2dc44c1f8e0588b520b52dc.png)
+
 提交支付获取hash
 ### 支付hash截图
 ![支付hash](https://caseapp.hnbangyao.net/uploads/20241112/41e23a6290c5bd7852f7b7f7a032fdf7.png '付款hash')
@@ -24,8 +26,8 @@
 提交支付获取hash
 ### 支付hash截图
 ![支付hash](https://caseapp.hnbangyao.net/uploads/20241112/4ae46e5117d96523863d60fb470d4607.png '付款hash')
-查看支付hash 获取到支付合约地址
 
+查看支付hash 获取到支付合约地址:
 [0xF1301945a181818b82DfbF58B5F3D37E5Fc7f236](https://testnet.bscscan.com/address/0xF1301945a181818b82DfbF58B5F3D37E5Fc7f236)
 
 ### 前端对接
@@ -64,7 +66,6 @@
 * 代币精度自动获取 不建议修改
 * 代币免审核最小数量 如 0 代表 开启审核后 都需要审核
 * 代币单笔提现最大数量 申请提现数量超过一定金额会失败
-
 ![配置页面](https://caseapp.hnbangyao.net/uploads/20241112/9d990595eb46b16702cd407f42af74e2.png)
 
 ### 管理员配置签名信息
@@ -72,7 +73,6 @@
 * 签名个人地址 （私钥后台配置 自动加密）
 * 签名有效期 （超过一定时间得签名验证失败 如 120秒）
 * 配置后可发起提现测试
-
 ![签名信息](https://caseapp.hnbangyao.net/uploads/20241112/384453ded141ff37e9b775a04e0d5473.png)
 
 ### 管理员配置多签信息

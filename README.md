@@ -28,4 +28,15 @@
 
 [支付合约地址:0xF1301945a181818b82DfbF58B5F3D37E5Fc7f236](https://testnet.bscscan.com/address/0xF1301945a181818b82DfbF58B5F3D37E5Fc7f236)
 
+前端获取 payment.json
+对接方法 payment  
+id 唯一值
+price 金额
+支付成功hash
+![hash](https://caseapp.hnbangyao.net/uploads/20241112/695fb6472f4feed456621b5debdc05c1.png)
+
+后端监听事件：0x1c3b7b9979390c4ed5e6b2776ce44736537976c001c408aa9d5bbfeb5eef0443
+![hash](https://caseapp.hnbangyao.net/uploads/20241112/075c7076aeb069ee47c15a12e97ae04a.png)
+
+
 # 创建提现多签合约
